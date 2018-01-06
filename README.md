@@ -9,3 +9,8 @@
 - vagrant plugin
 - homebrew
 - pip
+
+# 手順
+- start-pack.shを実行
+- gitのアカウントを設定する
+- gitで管理していたものをインストールする
