@@ -15,6 +15,7 @@ brew install docker-machine
 brew install pandoc
 brew install git # To install "git" not default
 brew install peco
+brew tap Homebrew/bundle
 
 # Prepare to install Xcode
 sudo gem install xcode-install
