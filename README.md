@@ -11,6 +11,7 @@
 - pip
 
 # 手順
+- 「chmod a x start-pack.sh」で実行権限を与える
 - start-pack.shを実行
 - gitのアカウントを設定する
 - gitで管理していたものをインストールする
